@@ -11,6 +11,9 @@
 #
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
 git clone https://github.com/kenzok8/small.git package/small
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/poweroff
+git clone https://github.com/sirpdboy/luci-app-autopoweroff.git  package/autopoweroff
+git clone https://github.com/jerrykuku/luci-theme-argon.git  package/theme-argon
 
 
 # Uncomment a feed source
